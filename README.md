@@ -1,4 +1,4 @@
-## Kütüphane Otomasyon Sistemi
+## Kütüphane Yönetim Sistemi
 Veritabanı Yönetim Sistemleri dersi için ödev olarak geliştirilmiş bir projedir.
 
 C# ile yazılmıştır. 
