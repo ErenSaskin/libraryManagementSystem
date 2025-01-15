@@ -11,3 +11,4 @@ Projenin detaylı raporuna aşağıdaki bağlantıdan ulaşabilirsiniz.
 
 
 ![resim](https://github.com/user-attachments/assets/d018814d-0bfc-4b66-9ac3-59c038ada223)
+![resim](https://github.com/user-attachments/assets/9b905f1e-3040-4c42-83ee-f8ffb2c4ca71)
